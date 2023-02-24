@@ -1,4 +1,5 @@
-<center><img src="assets/Name.gif" width="450px"></center><hr>
+<h3 align=center ><img align=center src="assets/Name.gif" width="450px">
+</h3><hr>
 
 <h3 align="center">A passionate App & Web developer & A keen learner</h3>
 
@@ -69,13 +70,12 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>&nbsp;
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>&nbsp;   
  </p>
-<hr><br>
-<div style="display: flex; flex-direction: row; justify-content: center">
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GlenDsza&show_icons=true&locale=en&layout=compact&langs_count=5&theme=tokyonight" alt="GlenDsza" />  
+<hr>
+<h3 align=center>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GlenDsza&show_icons=true&locale=en&layout=compact&langs_count=5&theme=tokyonight" alt="GlenDsza" />  
 &nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=GlenDsza&show_icons=true&count_private=true&theme=tokyonight&hide_rank=true&hide=contribs" alt="GlenDsza" />
-</div>
-<br>
-<center><p>
+</h3>
+<h3 align=center>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GlenDsza&theme=tokyonight" alt="GlenDsza" />
-</p></center>
+</h3>
