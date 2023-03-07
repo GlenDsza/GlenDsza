@@ -12,6 +12,8 @@
 
 - &nbsp; 🌱 I’m currently learning **about Web3, Blockchain & ML**
 
+- &nbsp; 💬 Ask me anything, Happy to help 🙂
+
 <!-- - 👨‍💻 All of my projects are available at [abc.com](abc.com) -->
 
 - &nbsp; 📫 Reach me at **dsouzaglen30@gmail.com**
@@ -21,8 +23,16 @@
 <hr>
 <h3 align="left">Connect with me:</h3>
 
-<a href = "mailto:dsouzaglen30@gmail.com?subject='Hey there, nice connecting with you'" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href = "https://www.linkedin.com/in/glen-dsza" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="discordapp.com/users/637542768876716032" target="_blank"> <img align="left" alt="Glen | Discord" width="40" height="40" src="https://skillicons.dev/icons?i=discord" /></a>
+<!-- <a href="">
+  <img align="left" alt="Glen | Twitter" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a> -->
+<a href="https://www.linkedin.com/in/glen-dsza" target="_blank"><img align="left" alt="Glen | LinkedIN" width="40" height="40" src="https://skillicons.dev/icons?i=linkedin" /></a>
+<!-- <a href="">
+  <img align="left" alt="Glen | Instagram" width="30" src="https://user-images.githubusercontent.com/83356501/129452050-d0157287-2350-4999-95b9-ea9e8a27639b.png" />
+</a> -->
+<a href = "mailto:dsouzaglen30@gmail.com?subject='Hey there, nice connecting with you'" target="_blank"><img alt="Gmail" src="assets/gmail.png" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<br>
+<!-- <a href = "https://www.linkedin.com/in/glen-dsza" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
 
 <!-- &nbsp;&nbsp;
 <a href = "https://www.linkedin.com/in/glen-dsza" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%230077B5.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a> -->
@@ -45,30 +55,31 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
  
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>&nbsp;
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>&nbsp;
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>&nbsp;
- <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>&nbsp; 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>&nbsp;
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>&nbsp;
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>&nbsp;
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>&nbsp; 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>&nbsp;
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>&nbsp;
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>&nbsp;
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>&nbsp; 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>&nbsp;
-<a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>&nbsp;
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>&nbsp;
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>&nbsp;
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>&nbsp; 
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>&nbsp; 
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>&nbsp;
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&nbsp;
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>&nbsp; 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>&nbsp;
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>&nbsp;   
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a>&nbsp;
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a>&nbsp;
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a>&nbsp;
+ <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a>&nbsp; 
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=php" alt="php" width="40" height="40"/> </a>&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a>&nbsp;
+<a href="https://api.jquery.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jquery" alt="jquery" width="40" height="40"/> </a>&nbsp;
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a>&nbsp;
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a>&nbsp;
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a>&nbsp; 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a>&nbsp;
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a>&nbsp;
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=expressjs" alt="express" width="40" height="40"/> </a>&nbsp;
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a>&nbsp; 
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/></a>&nbsp;
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a>&nbsp;
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a>&nbsp;
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a>&nbsp; 
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a>&nbsp; 
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="40" height="40"/> </a>&nbsp;
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a>&nbsp;
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a>&nbsp;
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a>&nbsp; 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a>&nbsp;
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ps" alt="photoshop" width="40" height="40"/> </a>&nbsp;   
  </p>
 <hr>
 <h3 align=center>
