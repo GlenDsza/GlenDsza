@@ -3,7 +3,8 @@
 
 <h3 align="center">A passionate App & Web developer & A keen learner</h3>
 
-<!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=GlenDsza&label=Profile%20views&color=0e75b6&style=flat" alt="Glen Dousza" /></p> -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=GlenDsza&label=Profile%20views&color=0e75b6&style=flat" alt="Glen Dousza" /></p>
+<!-- https://gpvc.arturio.dev/GlenDsza -->
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GlenDsza&column=-1&margin-w=10&no-frame=true&no-bg=true&rank=-C&theme=darkhub" alt="Glen Dsouza" /></a> </p> -->
 
