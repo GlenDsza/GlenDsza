@@ -19,20 +19,25 @@
 
 - &nbsp; 📫 Reach me at **dsouzaglen30@gmail.com**
 
-- &nbsp; Check out - <a href="https://drive.google.com/file/d/1tcPJERQBwrXoHEkmzrcTnq_dXUwcLydk/view?usp=sharing" target="_blank">📄 Resume</a>
+- &nbsp; Check out - <a href="https://drive.google.com/file/d/1VdI8ChWO5Y4hCzUYEJ680RpG_BXwg5-W/view?usp=share_link" target="_blank">📄 Resume</a>
 
 <hr>
 <h3 align="left">Connect with me:</h3>
 
-<a href="discordapp.com/users/637542768876716032" target="_blank"> <img align="left" alt="Glen | Discord" width="40" height="40" src="https://skillicons.dev/icons?i=discord" /></a>
+<a href="https://discord.com/users/637542768876716032" target="_blank"> <img align="left" alt="Glen | Discord" width="40" height="40" src="https://skillicons.dev/icons?i=discord" /></a>
+
 <!-- <a href="">
   <img align="left" alt="Glen | Twitter" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a> -->
+
 <a href="https://www.linkedin.com/in/glen-dsza" target="_blank"><img align="left" alt="Glen | LinkedIN" width="40" height="40" src="https://skillicons.dev/icons?i=linkedin" /></a>
+
 <!-- <a href="">
   <img align="left" alt="Glen | Instagram" width="30" src="https://user-images.githubusercontent.com/83356501/129452050-d0157287-2350-4999-95b9-ea9e8a27639b.png" />
 </a> -->
+
 <a href = "mailto:dsouzaglen30@gmail.com?subject='Hey there, nice connecting with you'" target="_blank"><img alt="Gmail" src="assets/gmail.png" width="40" height="40"/></a>&nbsp;&nbsp;&nbsp;&nbsp;<br>
+
 <!-- <a href = "https://www.linkedin.com/in/glen-dsza" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
 
 <!-- &nbsp;&nbsp;
