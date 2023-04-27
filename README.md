@@ -70,6 +70,7 @@
 <a href="https://api.jquery.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jquery" alt="jquery" width="40" height="40"/> </a>&nbsp;
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a>&nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a>&nbsp;
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwindCSS" width="40" height="40"/> </a>&nbsp;
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a>&nbsp; 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a>&nbsp;
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a>&nbsp;
