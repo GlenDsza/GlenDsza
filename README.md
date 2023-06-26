@@ -1,11 +1,9 @@
 <h3 align=center ><img align=center src="assets/Name.gif" width="450px">
 </h3><hr>
 
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">✨| Let's Transform Ideas to reality! |✨</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=GlenDsza&label=Profile%20views&color=0e75b6&style=flat" alt="Glen Dousza" /></p>
-
-<br>
 
 - &nbsp; 🌱 Exploring the field of **Machine Learning**
 
@@ -15,7 +13,7 @@
 
 - &nbsp; 📫 Reach me at **dsouzaglen30@gmail.com**
 
-- &nbsp; Check out - <a href="https://drive.google.com/file/d/1M0m2Rd_FX36x27ugfskMBX571jLmbuIq/view?usp=sharing" target="_blank">📄 Resume</a>
+- &nbsp; Check out - <a href="https://drive.google.com/file/d/13mYq9yqr39CNlZUQ8GcbBMqLZFKYfBhY/view?usp=sharing" target="_blank">📄 Resume</a>
 
 <hr>
 <h3 align="left">Connect with me:</h3>
@@ -107,10 +105,6 @@
     </td>
   </tr>
 </table>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  </p>
 <hr>
 <h3 align=center>
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GlenDsza&show_icons=true&locale=en&layout=compact&langs_count=5&theme=tokyonight" alt="GlenDsza" />  
