@@ -90,7 +90,7 @@
     </td>
   </tr>
   <tr>
-    <td>Database:</td>
+    <td>Mobile App:</td>
     <td>
       <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a>&nbsp;
       <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flutter" alt="flutter" width="40" height="40"/> </a>&nbsp;
