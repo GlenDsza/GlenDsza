@@ -13,7 +13,7 @@
 
 - &nbsp; 📫 Reach me at **dsouzaglen30@gmail.com**
 
-- &nbsp; Check out - <a href="https://drive.google.com/file/d/13mYq9yqr39CNlZUQ8GcbBMqLZFKYfBhY/view?usp=sharing" target="_blank">📄 Resume</a>
+- &nbsp; Check out - <a href="https://drive.google.com/file/d/1pLzZrVDbAzxC6z39b9nkCIs1z95Y993S/view?usp=sharing" target="_blank">📄 Resume</a>
 
 <hr>
 <h3 align="left">Connect with me:</h3>
